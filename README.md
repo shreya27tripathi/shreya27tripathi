@@ -1,8 +1,19 @@
-### Hi there 👋
+#👋 Hello there! I'm currently in my pre-final year pursuing my Bachelor of Technology in Information Technology from Jaypee Institute of Information and Technology. My preferred pronouns are she/her.
 
+### About Me
 
-# 💫 About Me:
-I'm currently in my pre-final year  pursuing my Bachelor of Technology in Information Technology from Jaypee Institute of Information and Technology<br>My pronouns are she/her<br>My dominant programming language is C++<br>Languages: JavaScript,Python, SQL,HTML,CSS<br>Libraries/Frameworks-ReactJS, ExpressJS, NodeJS,ELK Stack<br>Operating Systems- Windows,Ubuntu(Linux)<br>Other Technologies-Docker,REST APIS
+🎓 **Education**: Bachelor of Technology in Information Technology (Pre-final year)  
+📚 **Major**: Information Technology  
+🏫 **Institution**: Jaypee Institute of Information and Technology  
+
+### Skills & Technologies
+
+💻 **Dominant Language**: C++  
+🌟 **Proficient Languages**: JavaScript, Python, SQL, HTML, CSS  
+🔧 **Libraries/Frameworks**: ReactJS, ExpressJS, NodeJS, ELK Stack  
+💼 **Operating Systems**: Windows, Ubuntu (Linux)  
+🛠️ **Other Technologies**: Docker, REST APIs  
+
 
 
 ## 🌐 Socials:
