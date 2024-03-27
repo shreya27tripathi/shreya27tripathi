@@ -1,5 +1,4 @@
-#👋 Hello there! I'm currently in my pre-final year pursuing my Bachelor of Technology in Information Technology from Jaypee Institute of Information and Technology. My preferred pronouns are she/her.
-
+## 👋 Hello there!
 ### About Me
 
 🎓 **Education**: Bachelor of Technology in Information Technology (Pre-final year)  
